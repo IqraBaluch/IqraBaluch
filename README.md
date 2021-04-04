@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Data Analyst Traineee at MTE.
-- 🌱 I’m currently Data Analyst from CodeCademy.
+<p> - 🔭 I’m currently working as Data Analyst Traineee at MTE.
+ - 🌱 I’m currently Data Analyst from CodeCademy.
 - 💬 Ask me about AI, ML, Data Science and Python.
-- 📫 How to reach me: iqraanwar097@gmail.com
+- 📫 How to reach me: iqraanwar097@gmail.com </p>
 -->
