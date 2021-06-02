@@ -8,6 +8,6 @@
 - 🔭 I’m currently working as Data Scientist an Bi at Spark Foundtion<br>
  - 🌱 I’m currently Data Analyst from CodeCademy.<br>
 - 💬 Ask me about AI, ML, Data Science and Python.<br>
-- 🔭 Improving my Machine Learnig Skills>
- - 🌱 I’m currently enrolled in Machine Learning and Python programming from DataCamp
-- 📫 How to reach me: iqraanwar097@gmail.com  </p>
+- 🔭 Improving my Machine Learnig Skills<br>
+ - 🌱 I’m currently enrolled in Machine Learning and Python programming from DataCamp<br>
+ - 📫 How to reach me: iqraanwar097@gmail.com  </p>
