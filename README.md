@@ -5,7 +5,11 @@
 - Data Science<br>
 - Artificial Intelligence<br>
 - Programming Language Python <br>
-- 🔭 I’m currently working as Data Scientist an Bi at Spart Foundtion raineee at MTE.<br>
+- 🔭 I’m currently working as Data Scientist an Bi at Spark Foundtion<br>
+ - 🌱 I’m currently Data Analyst from CodeCademy.<br>
+- 💬 Ask me about AI, ML, Data Science and Python.<br>
+- 📫 How to reach me: iqraanwar097@gmail.com  </p>
+- 🔭 Improving my Machine Learnig Skills>
  - 🌱 I’m currently Data Analyst from CodeCademy.<br>
 - 💬 Ask me about AI, ML, Data Science and Python.<br>
 - 📫 How to reach me: iqraanwar097@gmail.com  </p>
