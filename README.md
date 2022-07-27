@@ -10,5 +10,5 @@
 - 💬 Ask me about AI, ML, Data Science and Python.<br>
 - 🔭 Improving my Machine Learnig Skills<br>
  - 🌱 I’m currently enrolled in Machine Learning and Python programming from DataCamp<br>
-  - 🌱 DataCamp <br>
+  - 💬🌱 DataCamp <br>
  - 📫 How to reach me: iqraanwar097@gmail.com  </p>
