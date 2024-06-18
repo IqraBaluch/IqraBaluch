@@ -7,4 +7,6 @@
  - Learning Apache Spark Programming<br>
   - 💬🌱 Databricks <br>
  - 📫 How to reach me: iqraanwar097@gmail.com  </p>
- - Check my blog: https://medium.com/@iqraanwar
+ - Check my blog: https://medium.com/@iqraanwar </p>
+ - [LinkedIn
+]([url](https://www.linkedin.com/in/iqraanwar/))
