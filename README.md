@@ -10,9 +10,11 @@
   
 ### 📫 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Iqra Anwar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kweyakieblebo/](https://www.linkedin.com/in/iqraanwar/))
-  
- iqraanwar097@gmail.com  </p>
+[![LinkedIn Badge](https://img.shields.io/badge/-Iqra_Anwar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqraanwar/)
+[![Gmail Badge](https://img.shields.io/badge/-iqraanwar097@gmail.com-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:iqraanwar097@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Iqra_Anwar-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@iqraanwar)
+
+
  - Check my blog: https://medium.com/@iqraanwar </p>
 <!DOCTYPE html>
 <html lang="en">
