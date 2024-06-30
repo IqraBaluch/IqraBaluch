@@ -9,4 +9,4 @@
  - 📫 How to reach me: iqraanwar097@gmail.com  </p>
  - Check my blog: https://medium.com/@iqraanwar </p>
  - [LINKEDIN](https://www.linkedin.com/in/iqraanwar/)
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="![image](https://github.com/IqraBaluch/IqraBaluch/assets/57810189/892fc56b-81a7-4fa9-8558-54474d328ec2)></a>
