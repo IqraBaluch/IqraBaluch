@@ -9,4 +9,15 @@
  - 📫 How to reach me: iqraanwar097@gmail.com  </p>
  - Check my blog: https://medium.com/@iqraanwar </p>
  - [LINKEDIN](https://www.linkedin.com/in/iqraanwar/)
-<a href=#>[image](https://github.com/IqraBaluch/IqraBaluch/assets/57810189/892fc56b-81a7-4fa9-8558-54474d328ec2)></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example GIF</title>
+</head>
+<body>
+    <h1>Embedding an Example GIF</h1>
+    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flegnuefb30fdf1owkh98.gif" alt="Example GIF">
+</body>
+</html>
