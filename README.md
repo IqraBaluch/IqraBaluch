@@ -8,7 +8,6 @@
   - 💬🌱 Databricks <br>
  - 📫 How to reach me: iqraanwar097@gmail.com  </p>
  - Check my blog: https://medium.com/@iqraanwar </p>
- - [LINKEDIN](https://www.linkedin.com/in/iqraanwar/)
 <!DOCTYPE html>
 <html lang="en">
 <head>
