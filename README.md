@@ -15,7 +15,6 @@
 [![Medium Badge](https://img.shields.io/badge/-Iqra_Anwar-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@iqraanwar)
 
 
- - Check my blog: https://medium.com/@iqraanwar </p>
 <!DOCTYPE html>
 <html lang="en">
 <head>
