@@ -10,7 +10,7 @@
   
 ### 📫 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Afra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kweyakieblebo/](https://www.linkedin.com/in/iqraanwar/))
+[![Linkedin Badge](https://img.shields.io/badge/-Iqra Anwar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kweyakieblebo/](https://www.linkedin.com/in/iqraanwar/))
   
  iqraanwar097@gmail.com  </p>
  - Check my blog: https://medium.com/@iqraanwar </p>
