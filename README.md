@@ -1,39 +1,43 @@
-### Hi there 👋
+<p align="center"><img src="banner.svg" alt="Iqra Anwar, Data Engineer"></p>
 
-<p>Here is a BSCS graduate, looking for opportunities where my skills can be polished. I am eagerly willing to explore the field of data science and Data Engineering.
- 
-- Exploring LLMs <br>
-- 🔭 I’m currently working as Data Engineering intern at Royal Cyber<br>
- - Learning Apache Spark Programming<br>
-  - 💬🌱 Databricks <br>
+<p align="center">
+  <a href="YOUR-LINKEDIN-URL"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="YOUR-MEDIUM-URL"><b>Medium</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/IqraBaluch/data-engineer-roadmap"><b>Daily roadmap</b></a>
+</p>
 
-  
-### 📫 Connect with me:
+```python
+from dataclasses import dataclass
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Iqra_Anwar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqraanwar/)
-[![Gmail Badge](https://img.shields.io/badge/-Iqra_Anwar-D14836?style=flat&labelColor=D14836&logo=gmail&logoColor=white)](mailto:iqrayanwar@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Iqra_Anwar-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@iqraanwar)
+@dataclass
+class DataEngineer:
+    name: str = "Iqra Anwar"
+    certified: str = "SnowPro Core"
+    platforms: tuple = ("Microsoft Fabric", "Databricks", "Snowflake", "Azure Data Factory")
+    languages: tuple = ("Python", "PySpark", "SQL")
+    builds: str = "ETL/ELT pipelines with Medallion architecture"
+    cares_about: tuple = ("data quality", "schema drift", "monitoring", "clear documentation")
+    learning_now: str = "Python problem solving, one day at a time"
+    open_to: str = "Data engineering roles (remote or relocation)"
+```
 
+<p align="center"><img src="pipeline.svg" alt="Source to Bronze to Silver to Gold to Power BI"></p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flegnuefb30fdf1owkh98.gif" alt="Example GIF">
-</body>
-</html>
+## What I've delivered
 
-### SKILLS
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) 
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-](#)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-](#)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+| | |
+|---|---|
+| **Fabric ETL** (freelance, 2026 to now) | Lakehouse and Warehouse pipelines, dynamic historical loads, schema-drift handling, production monitoring |
+| **Databricks Medallion pipeline** (Royal Cyber) | 40,000+ support records modelled into analytics-ready Gold tables with PySpark and SQL |
+| **AI inside the ETL** | Sentiment classification of customer feedback, with draft replies for negative reviews |
+| **Business dashboard** | Power BI KPI dashboard used across departments |
+
+## Stack
+
+`Python` `PySpark` `SQL` `Spark SQL` `Microsoft Fabric` `Databricks` `Snowflake` `Azure Data Factory` `Delta Lake` `ADLS Gen2` `SQL Server` `MongoDB` `Power BI` `Git`
+
+## Currently building in public
+
+I'm working through a 91-day plan to sharpen my Python and problem solving for data engineering interviews. Every drill and note is in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
+
+<p align="center"><sub>Raw data in, trusted data out.</sub></p>
