@@ -1,8 +1,8 @@
 <p align="center"><img src="banner.svg" alt="Iqra Anwar, Data Engineer"></p>
 
 <p align="center">
-  <a href="YOUR-LINKEDIN-URL"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="YOUR-MEDIUM-URL"><b>Medium</b></a> &nbsp;·&nbsp;
+  <a href=https://www.linkedin.com/in/iqraanwar/><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://medium.com/@iqraanwar"><b>Medium</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/IqraBaluch/data-engineer-roadmap"><b>Daily roadmap</b></a>
 </p>
 
@@ -38,6 +38,6 @@ class DataEngineer:
 
 ## Currently building in public
 
-I'm working through a 91-day plan to sharpen my Python and problem solving for data engineering interviews. Every drill and note is in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
+I'm working through sharpen my skills for data engineering interviews. Every drill and note is in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
 
 <p align="center"><sub>Raw data in, trusted data out.</sub></p>
