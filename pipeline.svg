@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#14183a"/></linearGradient>
+<marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#8896b3"/></marker></defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<text x="600" y="48" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#f2f5fb">How I build pipelines</text>
+<g font-family="Helvetica,Arial,sans-serif" text-anchor="middle">
+<g><rect x="40" y="110" width="190" height="150" rx="20" fill="#1e2a4d" stroke="#8896b3"/><text x="135" y="160" font-size="26" font-weight="700" fill="#f2f5fb">Sources</text><text x="135" y="195" font-size="18" fill="#9fb0cc">SQL Server</text><text x="135" y="220" font-size="18" fill="#9fb0cc">MongoDB · APIs</text></g>
+<g><rect x="290" y="110" width="190" height="150" rx="20" fill="#3b2a1a" stroke="#cd7f32" stroke-width="3"/><text x="385" y="160" font-size="28" font-weight="800" fill="#e8a56b">Bronze</text><text x="385" y="195" font-size="18" fill="#d9b48f">raw, as-is</text><text x="385" y="220" font-size="18" fill="#d9b48f">incremental loads</text></g>
+<g><rect x="540" y="110" width="190" height="150" rx="20" fill="#2a3040" stroke="#c0c8d8" stroke-width="3"/><text x="635" y="160" font-size="28" font-weight="800" fill="#dfe5f2">Silver</text><text x="635" y="195" font-size="18" fill="#b9c2d6">clean + validate</text><text x="635" y="220" font-size="18" fill="#b9c2d6">schema drift handled</text></g>
+<g><rect x="790" y="110" width="190" height="150" rx="20" fill="#3a3010" stroke="#ffd166" stroke-width="3"/><text x="885" y="160" font-size="28" font-weight="800" fill="#ffd166">Gold</text><text x="885" y="195" font-size="18" fill="#e6cf8a">business-ready</text><text x="885" y="220" font-size="18" fill="#e6cf8a">tables + models</text></g>
+<g><rect x="1040" y="110" width="130" height="150" rx="20" fill="#12332f" stroke="#5eead4"/><text x="1105" y="160" font-size="24" font-weight="700" fill="#5eead4">Power BI</text><text x="1105" y="195" font-size="18" fill="#8fd9cc">KPIs for</text><text x="1105" y="220" font-size="18" fill="#8fd9cc">the business</text></g>
+</g>
+<g stroke="#8896b3" stroke-width="3" marker-end="url(#a)"><line x1="232" y1="185" x2="286" y2="185"/><line x1="482" y1="185" x2="536" y2="185"/><line x1="732" y1="185" x2="786" y2="185"/><line x1="982" y1="185" x2="1036" y2="185"/></g>
+<circle r="7" fill="#5eead4"><animateMotion dur="5s" repeatCount="indefinite" path="M 50 300 L 1150 300"/></circle>
+<circle r="7" fill="#ffb454"><animateMotion dur="5s" begin="1.6s" repeatCount="indefinite" path="M 50 300 L 1150 300"/></circle>
+<circle r="7" fill="#a79bff"><animateMotion dur="5s" begin="3.2s" repeatCount="indefinite" path="M 50 300 L 1150 300"/></circle>
+<line x1="40" y1="300" x2="1160" y2="300" stroke="#ffffff22" stroke-dasharray="3 10"/>
+<text x="600" y="326" text-anchor="middle" font-family="monospace" font-size="16" fill="#6b7a99">Delta Lake · PySpark · SQL · monitored and documented</text>
+</svg>
