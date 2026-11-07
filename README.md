@@ -24,20 +24,31 @@ class DataEngineer:
 <p align="center"><img src="pipeline.svg" alt="Source to Bronze to Silver to Gold to Power BI"></p>
 
 ## What I've delivered
-
-| | |
-|---|---|
-| **Fabric ETL** (freelance, 2026 to now) | Lakehouse and Warehouse pipelines, dynamic historical loads, schema-drift handling, production monitoring |
-| **Databricks Medallion pipeline** (Royal Cyber) | 40,000+ support records modelled into analytics-ready Gold tables with PySpark and SQL |
-| **AI inside the ETL** | Sentiment classification of customer feedback, with draft replies for negative reviews |
-| **Business dashboard** | Power BI KPI dashboard used across departments |
+<p align="center"><img src="delivered.svg" alt="What I've delivered: Fabric ETL, Databricks Medallion, AI inside the ETL, Business dashboard"></p>
 
 ## Stack
 
-`Python` `PySpark` `SQL` `Spark SQL` `Microsoft Fabric` `Databricks` `Snowflake` `Azure Data Factory` `Delta Lake` `ADLS Gen2` `SQL Server` `MongoDB` `Power BI` `Git`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-## Currently building in public
+## Right now
 
-I'm working through sharpen my skills for data engineering interviews. Every drill and note is in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
+Sharpening my Python and problem solving every day, so I can write and explain pipeline code with confidence. Notes, drills and mini projects are in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
+
+<p align="center"><sub>Raw data in, trusted data out.</sub></p>
+
+
+Data Engineering drill and note is in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
 
 <p align="center"><sub>Raw data in, trusted data out.</sub></p>
