@@ -23,7 +23,7 @@ class DataEngineer:
 
 <p align="center"><img src="pipeline.svg" alt="Source to Bronze to Silver to Gold to Power BI"></p>
 
-## What I've delivered
+
 <p align="center"><img src="delivered.svg" alt="What I've delivered: Fabric ETL, Databricks Medallion, AI inside the ETL, Business dashboard"></p>
 
 ## Stack
@@ -46,7 +46,6 @@ class DataEngineer:
 
 Sharpening my Python and problem solving every day, so I can write and explain pipeline code with confidence. Notes, drills and mini projects are in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
 
-<p align="center"><sub>Raw data in, trusted data out.</sub></p>
 
 
 Data Engineering drill and note is in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
