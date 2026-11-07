@@ -44,10 +44,6 @@ class DataEngineer:
 
 ## Right now
 
-Sharpening my Python and problem solving every day, so I can write and explain pipeline code with confidence. Notes, drills and mini projects are in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
-
-
-
-Data Engineering drill and note is in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
+Working on creating Data Engineering path. Notes, drills and mini projects are in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
 
 <p align="center"><sub>Raw data in, trusted data out.</sub></p>
