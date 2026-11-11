@@ -46,5 +46,9 @@ class DataEngineer:
 
 Working on creating Data Engineering path. Notes, drills and mini projects are in [data-engineer-roadmap](https://github.com/IqraBaluch/data-engineer-roadmap).
 
+ <div align="center">
+  <sub>Raw data in, trusted data out.</sub>
+</div>
+
    
 ![](https://komarev.com/ghpvc/?username=IqraBaluch&style=pixel)
