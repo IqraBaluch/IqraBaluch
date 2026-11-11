@@ -49,4 +49,4 @@ Working on creating Data Engineering path. Notes, drills and mini projects are i
 
    ![](https://komarev.com/ghpvc/?username=IqraBaluch&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
    
-<p align="center"><sub>Raw data in, trusted data out.</sub></p>
+![](https://komarev.com/ghpvc/?username=IqraBaluch&style=pixel)
